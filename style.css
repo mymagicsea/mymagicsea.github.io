@@ -1,0 +1,29 @@
+body {
+    
+     background-image: url("https://i.hizliresim.com/psGOtW.jpg");
+     min-height: 100vh;
+    min-width: 100vw;
+    overflow: auto;
+
+   }
+
+
+   .main{
+font-size: 30px;
+color:#6c6ebd;
+    text-align: center;
+   
+    
+   }
+   .main img{margin-top: 30px;
+margin-bottom: 40px;
+    width: 300px;
+    height: 150px;
+   }
+
+
+  
+  
+
+
+  
